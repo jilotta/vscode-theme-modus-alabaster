@@ -9,7 +9,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#AA3731"
+				"foreground": "#8a290f"
 			}
 		},
 		{
@@ -20,14 +20,14 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#0031a9"
 			}
 		},
 		{
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#4a3a8a"
 			}
 		},
 		{
@@ -39,29 +39,29 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#721045"
 			}
 		},
 		{
 			"name": "Global definitions",
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#325CC0"
+				"foreground": "#005e8b"
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#595959"
 			}
 		},
 		{
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#96000014",
-				"foreground": "#660000"
+				"background": "#ff8f88",
+				"foreground": "#a60000"
 			}
 		},
 		{
@@ -94,11 +94,11 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#F7F7F7",
+		"editor.background": "#FFFFFF",
 		"editor.foreground": "#000",
-		"editor.lineHighlightBackground": "#F0F0F0",
-		"editor.selectionBackground": "#BFDBFE",
-		"editor.selectionHighlightBackground": "#CFCFCF81",
+		"editor.lineHighlightBackground": "#DAE5EC",
+		"editor.selectionBackground": "#BDBDBD",
+		"editor.selectionHighlightBackground": "#BDBDBD",
 		"panel.background": "#F0F0F0",
 		"sideBar.background": "#F0F0F0",
 		"editorGroupHeader.tabsBackground": "#F0F0F0",
@@ -108,12 +108,12 @@
 		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
 		"editor.findMatchHighlightBackground": "#FFD86381",
-		"statusBar.background": "#DDDDDD",
-		"statusBar.foreground": "#474747",
-		"statusBar.debuggingBackground": "#FFBC5D",
+		"statusBar.background": "#C8C8C8",
+		"statusBar.foreground": "#000",
+		"statusBar.debuggingBackground": "#f3d000",
 		"statusBar.debuggingForeground": "#000",
-		"statusBar.noFolderBackground": "#7A3E9D",
-		"statusBar.noFolderForeground": "#fff",
+		"statusBar.noFolderBackground": "#dfa0f0",
+		"statusBar.noFolderForeground": "#000",
 
 		"list.activeSelectionBackground": "#DDDDDD",
 		"list.activeSelectionForeground": "#000000",
@@ -131,12 +131,12 @@
 
 		"terminal.ansiWhite": "#BBBBBB",
 		"terminal.ansiBlack": "#000000",
-		"terminal.ansiBlue": "#325CC0",
-		"terminal.ansiCyan": "#0083B2",
-		"terminal.ansiGreen": "#448C27",
-		"terminal.ansiMagenta": "#7A3E9D",
-		"terminal.ansiRed": "#AA3731",
-		"terminal.ansiYellow": "#CB9000",
+		"terminal.ansiBlue": "#0031a9",
+		"terminal.ansiCyan": "#005e8b",
+		"terminal.ansiGreen": "#006800",
+		"terminal.ansiMagenta": "#721045",
+		"terminal.ansiRed": "#a60000",
+		"terminal.ansiYellow": "#6f5500",
 		"terminal.ansiBrightWhite": "#FFFFFF",
 		"terminal.ansiBrightBlack": "#777777",
 		"terminal.ansiBrightBlue": "#007ACC",
